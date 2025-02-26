@@ -1,0 +1,27 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "A JavaScript plugin to generate customizable QR codes with a hyperlink icon in the center.",
+  "main": "qr-code-generator.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "keywords": [
+    "qr",
+    "code",
+    "generator",
+    "javascript",
+    "plugin",
+    "customizable"
+  ],
+  "author": "Bolt",
+  "license": "MIT"
+}
